@@ -1,5 +1,8 @@
 # Predicting Customer Churn Using Machine Learning
 
+![Customer Churn Model](correlation_matrix.png)
+
+
 ## Project Overview
 This project focuses on building a machine learning model to predict customer churn using a synthetic dataset. The goal is to identify key factors that influence customer retention and build a predictive model to help businesses reduce churn rates.
 
